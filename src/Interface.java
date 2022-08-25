@@ -5,6 +5,7 @@ interface test {
     void fillUp();
 }
 
+
 public class Interface implements test {
     public static void main(String[] args) {
         System.out.println(color);
