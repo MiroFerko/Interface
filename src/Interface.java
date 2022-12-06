@@ -1,9 +1,5 @@
 interface test {
 
-
-
-
-
     String color = "Blue";
 
     void fillUp();
